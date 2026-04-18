@@ -1,2 +1,2 @@
 # SyntaxSage
-My personal repoitory
+My personal repository
