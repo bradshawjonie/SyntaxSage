@@ -1,6 +1,6 @@
 # SyntaxSage
 <head>
-<h2>My personal Repository</h2>
+<h2>My Personal Repository</h2>
 </head>
 <body>
 <main><ul>
